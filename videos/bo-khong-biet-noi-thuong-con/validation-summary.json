@@ -1,0 +1,57 @@
+{
+  "status": "passed",
+  "duration_seconds": 524.375,
+  "video": {
+    "codec": "h264",
+    "width": 1280,
+    "height": 720,
+    "fps": "24/1",
+    "frames": 12585
+  },
+  "audio": {
+    "codec": "aac",
+    "sample_rate": "48000",
+    "channels": 1,
+    "integrated_lufs": -16.03,
+    "true_peak_dbtp": -1.64
+  },
+  "file_bytes": 27627436,
+  "sha256": "068edb63718361c47b4ce2443b78dfa71e3f2d3e55665e2709ed788a0216220b",
+  "shots_used": 126,
+  "source_sheets": 11,
+  "source_cells": 176,
+  "subtitle_cues": 192,
+  "average_shot_seconds": 4.161706349206349,
+  "full_decode_errors": "",
+  "audio_sync_checks": [
+    {
+      "time_seconds": 20,
+      "lag_seconds": 0.0
+    },
+    {
+      "time_seconds": 250,
+      "lag_seconds": 0.0
+    },
+    {
+      "time_seconds": 500,
+      "lag_seconds": 0.0
+    }
+  ],
+  "still_image_checks": [
+    {
+      "shot": 8,
+      "mean_pixel_difference_0_255": 0.031892361111111114
+    },
+    {
+      "shot": 64,
+      "mean_pixel_difference_0_255": 0.021996527777777778
+    },
+    {
+      "shot": 110,
+      "mean_pixel_difference_0_255": 0.01965277777777778
+    }
+  ],
+  "subtitle_timeline_checks": "positive durations, no overlap, ends within audio",
+  "visual_review": "Reviewed all 11 source contact sheets, 12 representative exported video frames across the timeline, a full-size subtitle sample, and the thumbnail; no grid gutters, header or fixed black subtitle band observed.",
+  "not_claimed": "No claim of human word-by-word listening or full character animation."
+}

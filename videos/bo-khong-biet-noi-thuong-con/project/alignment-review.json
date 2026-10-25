@@ -1,0 +1,368 @@
+[
+  {
+    "kind": "insert",
+    "script": "",
+    "asr": "Thưa,",
+    "start": 18.48
+  },
+  {
+    "kind": "replace",
+    "script": "đầu.",
+    "asr": "đồ rồ.",
+    "start": 20.82
+  },
+  {
+    "kind": "replace",
+    "script": "mái",
+    "asr": "máy",
+    "start": 29.66
+  },
+  {
+    "kind": "replace",
+    "script": "cúi",
+    "asr": "cứu",
+    "start": 34.42
+  },
+  {
+    "kind": "replace",
+    "script": "khoe",
+    "asr": "khe",
+    "start": 46.68
+  },
+  {
+    "kind": "replace",
+    "script": "xin,",
+    "asr": "sinh,",
+    "start": 51.32
+  },
+  {
+    "kind": "replace",
+    "script": "giận.",
+    "asr": "dẫn.",
+    "start": 88.42
+  },
+  {
+    "kind": "replace",
+    "script": "hoay",
+    "asr": "quay",
+    "start": 91.3
+  },
+  {
+    "kind": "replace",
+    "script": "xăng",
+    "asr": "sang",
+    "start": 98.68
+  },
+  {
+    "kind": "replace",
+    "script": "tuột",
+    "asr": "tụt",
+    "start": 100.76
+  },
+  {
+    "kind": "replace",
+    "script": "ra bến.",
+    "asr": "trà bín,",
+    "start": 103.3
+  },
+  {
+    "kind": "replace",
+    "script": "giục",
+    "asr": "dục",
+    "start": 119.56
+  },
+  {
+    "kind": "replace",
+    "script": "mũ",
+    "asr": "bổ",
+    "start": 126.7
+  },
+  {
+    "kind": "replace",
+    "script": "lặng",
+    "asr": "lặn",
+    "start": 159.04
+  },
+  {
+    "kind": "replace",
+    "script": "cắt",
+    "asr": "các",
+    "start": 176.46
+  },
+  {
+    "kind": "replace",
+    "script": "sáu.",
+    "asr": "6.",
+    "start": 179.18
+  },
+  {
+    "kind": "replace",
+    "script": "đếm",
+    "asr": "đến",
+    "start": 198.68
+  },
+  {
+    "kind": "replace",
+    "script": "Ban",
+    "asr": "Ba",
+    "start": 201.16
+  },
+  {
+    "kind": "replace",
+    "script": "họng",
+    "asr": "họm",
+    "start": 237.16
+  },
+  {
+    "kind": "replace",
+    "script": "nghẹn",
+    "asr": "ngẹn",
+    "start": 237.56
+  },
+  {
+    "kind": "replace",
+    "script": "xộn.",
+    "asr": "sộm,",
+    "start": 239.42
+  },
+  {
+    "kind": "insert",
+    "script": "",
+    "asr": "Nhưng",
+    "start": 246.14
+  },
+  {
+    "kind": "replace",
+    "script": "cúi",
+    "asr": "cuối",
+    "start": 267.52
+  },
+  {
+    "kind": "replace",
+    "script": "dáng",
+    "asr": "gián",
+    "start": 290.5
+  },
+  {
+    "kind": "replace",
+    "script": "Dép",
+    "asr": "giép",
+    "start": 292.76
+  },
+  {
+    "kind": "replace",
+    "script": "bậc",
+    "asr": "bật",
+    "start": 297.84
+  },
+  {
+    "kind": "replace",
+    "script": "đổi",
+    "asr": "đổ",
+    "start": 298.86
+  },
+  {
+    "kind": "replace",
+    "script": "rất",
+    "asr": "chất",
+    "start": 301.56
+  },
+  {
+    "kind": "replace",
+    "script": "rõ bàn",
+    "asr": "trỏ bằng",
+    "start": 303.26
+  },
+  {
+    "kind": "replace",
+    "script": "run",
+    "asr": "trung",
+    "start": 304.38
+  },
+  {
+    "kind": "replace",
+    "script": "Buổi",
+    "asr": "Bối",
+    "start": 312.84
+  },
+  {
+    "kind": "replace",
+    "script": "ba",
+    "asr": "3",
+    "start": 313.72
+  },
+  {
+    "kind": "replace",
+    "script": "miếng",
+    "asr": "miên",
+    "start": 321.18
+  },
+  {
+    "kind": "replace",
+    "script": "rồi",
+    "asr": "trồi",
+    "start": 321.66
+  },
+  {
+    "kind": "replace",
+    "script": "bát",
+    "asr": "bác",
+    "start": 322.42
+  },
+  {
+    "kind": "replace",
+    "script": "miếng",
+    "asr": "miên",
+    "start": 326.44
+  },
+  {
+    "kind": "replace",
+    "script": "chợt",
+    "asr": "trực",
+    "start": 326.96
+  },
+  {
+    "kind": "replace",
+    "script": "vậy.",
+    "asr": "vị.",
+    "start": 329.5
+  },
+  {
+    "kind": "replace",
+    "script": "mắt",
+    "asr": "mắc",
+    "start": 348.74
+  },
+  {
+    "kind": "replace",
+    "script": "rồi",
+    "asr": "trôi",
+    "start": 356.2
+  },
+  {
+    "kind": "replace",
+    "script": "“Thế",
+    "asr": "Thái",
+    "start": 357.18
+  },
+  {
+    "kind": "replace",
+    "script": "dựng",
+    "asr": "dẫn",
+    "start": 363.16
+  },
+  {
+    "kind": "replace",
+    "script": "che.",
+    "asr": "tre.",
+    "start": 363.96
+  },
+  {
+    "kind": "replace",
+    "script": "mặc",
+    "asr": "mặt",
+    "start": 366.56
+  },
+  {
+    "kind": "replace",
+    "script": "chở",
+    "asr": "trở",
+    "start": 380.56
+  },
+  {
+    "kind": "replace",
+    "script": "kỹ",
+    "asr": "kỉ",
+    "start": 384.78
+  },
+  {
+    "kind": "replace",
+    "script": "màn",
+    "asr": "bàn",
+    "start": 401.84
+  },
+  {
+    "kind": "replace",
+    "script": "dột",
+    "asr": "dục",
+    "start": 410.78
+  },
+  {
+    "kind": "replace",
+    "script": "dột",
+    "asr": "dục",
+    "start": 413.3
+  },
+  {
+    "kind": "replace",
+    "script": "ngẩng",
+    "asr": "ngẫn",
+    "start": 431.58
+  },
+  {
+    "kind": "replace",
+    "script": "Rồi",
+    "asr": "Trồi",
+    "start": 433.94
+  },
+  {
+    "kind": "replace",
+    "script": "loay",
+    "asr": "lây",
+    "start": 442.48
+  },
+  {
+    "kind": "replace",
+    "script": "cho",
+    "asr": "trong",
+    "start": 443.84
+  },
+  {
+    "kind": "replace",
+    "script": "khoe.",
+    "asr": "khe.",
+    "start": 457.74
+  },
+  {
+    "kind": "replace",
+    "script": "khựng",
+    "asr": "cỪng",
+    "start": 468.02
+  },
+  {
+    "kind": "replace",
+    "script": "đàng",
+    "asr": "đàn",
+    "start": 474.6
+  },
+  {
+    "kind": "replace",
+    "script": "cho",
+    "asr": "tra",
+    "start": 492.62
+  },
+  {
+    "kind": "replace",
+    "script": "một",
+    "asr": "mục",
+    "start": 516.78
+  },
+  {
+    "kind": "replace",
+    "script": "rảnh",
+    "asr": "đánh",
+    "start": 520.12
+  },
+  {
+    "kind": "replace",
+    "script": "ra",
+    "asr": "tra",
+    "start": 521.62
+  },
+  {
+    "kind": "replace",
+    "script": "ra",
+    "asr": "tra",
+    "start": 523.24
+  }
+]

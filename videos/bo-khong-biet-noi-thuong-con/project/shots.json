@@ -1,0 +1,2018 @@
+[
+  {
+    "index": 0,
+    "start_frame": 0,
+    "end_frame": 147,
+    "start": 0.0,
+    "end": 6.125,
+    "frames": 147,
+    "sheet": 1,
+    "cell": 0,
+    "crop": {
+      "x": 3,
+      "y": 1,
+      "width": 405,
+      "height": 228
+    }
+  },
+  {
+    "index": 1,
+    "start_frame": 147,
+    "end_frame": 254,
+    "start": 6.125,
+    "end": 10.583333333333334,
+    "frames": 107,
+    "sheet": 1,
+    "cell": 2,
+    "crop": {
+      "x": 843,
+      "y": 1,
+      "width": 405,
+      "height": 228
+    }
+  },
+  {
+    "index": 2,
+    "start_frame": 254,
+    "end_frame": 346,
+    "start": 10.583333333333334,
+    "end": 14.416666666666666,
+    "frames": 92,
+    "sheet": 1,
+    "cell": 3,
+    "crop": {
+      "x": 1263,
+      "y": 1,
+      "width": 405,
+      "height": 228
+    }
+  },
+  {
+    "index": 3,
+    "start_frame": 346,
+    "end_frame": 456,
+    "start": 14.416666666666666,
+    "end": 19.0,
+    "frames": 110,
+    "sheet": 1,
+    "cell": 4,
+    "crop": {
+      "x": 4,
+      "y": 238,
+      "width": 403,
+      "height": 227
+    }
+  },
+  {
+    "index": 4,
+    "start_frame": 456,
+    "end_frame": 528,
+    "start": 19.0,
+    "end": 22.0,
+    "frames": 72,
+    "sheet": 1,
+    "cell": 5,
+    "crop": {
+      "x": 425,
+      "y": 238,
+      "width": 403,
+      "height": 227
+    }
+  },
+  {
+    "index": 5,
+    "start_frame": 528,
+    "end_frame": 642,
+    "start": 22.0,
+    "end": 26.75,
+    "frames": 114,
+    "sheet": 1,
+    "cell": 7,
+    "crop": {
+      "x": 1264,
+      "y": 238,
+      "width": 403,
+      "height": 227
+    }
+  },
+  {
+    "index": 6,
+    "start_frame": 642,
+    "end_frame": 735,
+    "start": 26.75,
+    "end": 30.625,
+    "frames": 93,
+    "sheet": 1,
+    "cell": 8,
+    "crop": {
+      "x": 18,
+      "y": 474,
+      "width": 376,
+      "height": 212
+    }
+  },
+  {
+    "index": 7,
+    "start_frame": 735,
+    "end_frame": 821,
+    "start": 30.625,
+    "end": 34.208333333333336,
+    "frames": 86,
+    "sheet": 1,
+    "cell": 10,
+    "crop": {
+      "x": 858,
+      "y": 474,
+      "width": 376,
+      "height": 212
+    }
+  },
+  {
+    "index": 8,
+    "start_frame": 821,
+    "end_frame": 904,
+    "start": 34.208333333333336,
+    "end": 37.666666666666664,
+    "frames": 83,
+    "sheet": 1,
+    "cell": 11,
+    "crop": {
+      "x": 1277,
+      "y": 474,
+      "width": 376,
+      "height": 212
+    }
+  },
+  {
+    "index": 9,
+    "start_frame": 904,
+    "end_frame": 973,
+    "start": 37.666666666666664,
+    "end": 40.541666666666664,
+    "frames": 69,
+    "sheet": 1,
+    "cell": 12,
+    "crop": {
+      "x": 1,
+      "y": 702,
+      "width": 410,
+      "height": 230
+    }
+  },
+  {
+    "index": 10,
+    "start_frame": 973,
+    "end_frame": 1068,
+    "start": 40.541666666666664,
+    "end": 44.5,
+    "frames": 95,
+    "sheet": 1,
+    "cell": 13,
+    "crop": {
+      "x": 421,
+      "y": 701,
+      "width": 411,
+      "height": 231
+    }
+  },
+  {
+    "index": 11,
+    "start_frame": 1068,
+    "end_frame": 1152,
+    "start": 44.5,
+    "end": 48.0,
+    "frames": 84,
+    "sheet": 1,
+    "cell": 15,
+    "crop": {
+      "x": 1261,
+      "y": 702,
+      "width": 409,
+      "height": 230
+    }
+  },
+  {
+    "index": 12,
+    "start_frame": 1152,
+    "end_frame": 1260,
+    "start": 48.0,
+    "end": 52.5,
+    "frames": 108,
+    "sheet": 2,
+    "cell": 0,
+    "crop": {
+      "x": 2,
+      "y": 1,
+      "width": 407,
+      "height": 229
+    }
+  },
+  {
+    "index": 13,
+    "start_frame": 1260,
+    "end_frame": 1392,
+    "start": 52.5,
+    "end": 58.0,
+    "frames": 132,
+    "sheet": 2,
+    "cell": 1,
+    "crop": {
+      "x": 423,
+      "y": 1,
+      "width": 407,
+      "height": 229
+    }
+  },
+  {
+    "index": 14,
+    "start_frame": 1392,
+    "end_frame": 1474,
+    "start": 58.0,
+    "end": 61.416666666666664,
+    "frames": 82,
+    "sheet": 2,
+    "cell": 6,
+    "crop": {
+      "x": 846,
+      "y": 239,
+      "width": 401,
+      "height": 226
+    }
+  },
+  {
+    "index": 15,
+    "start_frame": 1474,
+    "end_frame": 1560,
+    "start": 61.416666666666664,
+    "end": 65.0,
+    "frames": 86,
+    "sheet": 2,
+    "cell": 2,
+    "crop": {
+      "x": 843,
+      "y": 1,
+      "width": 407,
+      "height": 229
+    }
+  },
+  {
+    "index": 16,
+    "start_frame": 1560,
+    "end_frame": 1656,
+    "start": 65.0,
+    "end": 69.0,
+    "frames": 96,
+    "sheet": 2,
+    "cell": 5,
+    "crop": {
+      "x": 426,
+      "y": 239,
+      "width": 401,
+      "height": 226
+    }
+  },
+  {
+    "index": 17,
+    "start_frame": 1656,
+    "end_frame": 1829,
+    "start": 69.0,
+    "end": 76.20833333333333,
+    "frames": 173,
+    "sheet": 2,
+    "cell": 7,
+    "crop": {
+      "x": 1265,
+      "y": 239,
+      "width": 401,
+      "height": 226
+    }
+  },
+  {
+    "index": 18,
+    "start_frame": 1829,
+    "end_frame": 1925,
+    "start": 76.20833333333333,
+    "end": 80.20833333333333,
+    "frames": 96,
+    "sheet": 2,
+    "cell": 8,
+    "crop": {
+      "x": 17,
+      "y": 473,
+      "width": 378,
+      "height": 213
+    }
+  },
+  {
+    "index": 19,
+    "start_frame": 1925,
+    "end_frame": 2035,
+    "start": 80.20833333333333,
+    "end": 84.79166666666667,
+    "frames": 110,
+    "sheet": 2,
+    "cell": 9,
+    "crop": {
+      "x": 437,
+      "y": 473,
+      "width": 378,
+      "height": 213
+    }
+  },
+  {
+    "index": 20,
+    "start_frame": 2035,
+    "end_frame": 2119,
+    "start": 84.79166666666667,
+    "end": 88.29166666666667,
+    "frames": 84,
+    "sheet": 2,
+    "cell": 10,
+    "crop": {
+      "x": 857,
+      "y": 473,
+      "width": 378,
+      "height": 213
+    }
+  },
+  {
+    "index": 21,
+    "start_frame": 2119,
+    "end_frame": 2211,
+    "start": 88.29166666666667,
+    "end": 92.125,
+    "frames": 92,
+    "sheet": 2,
+    "cell": 11,
+    "crop": {
+      "x": 1277,
+      "y": 473,
+      "width": 378,
+      "height": 213
+    }
+  },
+  {
+    "index": 22,
+    "start_frame": 2211,
+    "end_frame": 2304,
+    "start": 92.125,
+    "end": 96.0,
+    "frames": 93,
+    "sheet": 2,
+    "cell": 12,
+    "crop": {
+      "x": 1,
+      "y": 702,
+      "width": 410,
+      "height": 230
+    }
+  },
+  {
+    "index": 23,
+    "start_frame": 2304,
+    "end_frame": 2400,
+    "start": 96.0,
+    "end": 100.0,
+    "frames": 96,
+    "sheet": 2,
+    "cell": 13,
+    "crop": {
+      "x": 421,
+      "y": 701,
+      "width": 411,
+      "height": 231
+    }
+  },
+  {
+    "index": 24,
+    "start_frame": 2400,
+    "end_frame": 2496,
+    "start": 100.0,
+    "end": 104.0,
+    "frames": 96,
+    "sheet": 2,
+    "cell": 14,
+    "crop": {
+      "x": 842,
+      "y": 702,
+      "width": 409,
+      "height": 230
+    }
+  },
+  {
+    "index": 25,
+    "start_frame": 2496,
+    "end_frame": 2573,
+    "start": 104.0,
+    "end": 107.20833333333333,
+    "frames": 77,
+    "sheet": 3,
+    "cell": 0,
+    "crop": {
+      "x": 2,
+      "y": 1,
+      "width": 407,
+      "height": 229
+    }
+  },
+  {
+    "index": 26,
+    "start_frame": 2573,
+    "end_frame": 2664,
+    "start": 107.20833333333333,
+    "end": 111.0,
+    "frames": 91,
+    "sheet": 3,
+    "cell": 2,
+    "crop": {
+      "x": 842,
+      "y": 1,
+      "width": 407,
+      "height": 229
+    }
+  },
+  {
+    "index": 27,
+    "start_frame": 2664,
+    "end_frame": 2772,
+    "start": 111.0,
+    "end": 115.5,
+    "frames": 108,
+    "sheet": 3,
+    "cell": 3,
+    "crop": {
+      "x": 1262,
+      "y": 1,
+      "width": 407,
+      "height": 229
+    }
+  },
+  {
+    "index": 28,
+    "start_frame": 2772,
+    "end_frame": 2887,
+    "start": 115.5,
+    "end": 120.29166666666667,
+    "frames": 115,
+    "sheet": 3,
+    "cell": 4,
+    "crop": {
+      "x": 5,
+      "y": 239,
+      "width": 401,
+      "height": 226
+    }
+  },
+  {
+    "index": 29,
+    "start_frame": 2887,
+    "end_frame": 2964,
+    "start": 120.29166666666667,
+    "end": 123.5,
+    "frames": 77,
+    "sheet": 3,
+    "cell": 6,
+    "crop": {
+      "x": 845,
+      "y": 239,
+      "width": 401,
+      "height": 226
+    }
+  },
+  {
+    "index": 30,
+    "start_frame": 2964,
+    "end_frame": 3048,
+    "start": 123.5,
+    "end": 127.0,
+    "frames": 84,
+    "sheet": 3,
+    "cell": 7,
+    "crop": {
+      "x": 1265,
+      "y": 239,
+      "width": 401,
+      "height": 226
+    }
+  },
+  {
+    "index": 31,
+    "start_frame": 3048,
+    "end_frame": 3120,
+    "start": 127.0,
+    "end": 130.0,
+    "frames": 72,
+    "sheet": 3,
+    "cell": 8,
+    "crop": {
+      "x": 18,
+      "y": 474,
+      "width": 376,
+      "height": 212
+    }
+  },
+  {
+    "index": 32,
+    "start_frame": 3120,
+    "end_frame": 3192,
+    "start": 130.0,
+    "end": 133.0,
+    "frames": 72,
+    "sheet": 3,
+    "cell": 9,
+    "crop": {
+      "x": 438,
+      "y": 474,
+      "width": 376,
+      "height": 212
+    }
+  },
+  {
+    "index": 33,
+    "start_frame": 3192,
+    "end_frame": 3276,
+    "start": 133.0,
+    "end": 136.5,
+    "frames": 84,
+    "sheet": 3,
+    "cell": 10,
+    "crop": {
+      "x": 858,
+      "y": 474,
+      "width": 376,
+      "height": 212
+    }
+  },
+  {
+    "index": 34,
+    "start_frame": 3276,
+    "end_frame": 3360,
+    "start": 136.5,
+    "end": 140.0,
+    "frames": 84,
+    "sheet": 3,
+    "cell": 12,
+    "crop": {
+      "x": 1,
+      "y": 702,
+      "width": 410,
+      "height": 230
+    }
+  },
+  {
+    "index": 35,
+    "start_frame": 3360,
+    "end_frame": 3444,
+    "start": 140.0,
+    "end": 143.5,
+    "frames": 84,
+    "sheet": 3,
+    "cell": 13,
+    "crop": {
+      "x": 421,
+      "y": 702,
+      "width": 410,
+      "height": 230
+    }
+  },
+  {
+    "index": 36,
+    "start_frame": 3444,
+    "end_frame": 3528,
+    "start": 143.5,
+    "end": 147.0,
+    "frames": 84,
+    "sheet": 3,
+    "cell": 15,
+    "crop": {
+      "x": 1262,
+      "y": 702,
+      "width": 408,
+      "height": 229
+    }
+  },
+  {
+    "index": 37,
+    "start_frame": 3528,
+    "end_frame": 3600,
+    "start": 147.0,
+    "end": 150.0,
+    "frames": 72,
+    "sheet": 4,
+    "cell": 0,
+    "crop": {
+      "x": 2,
+      "y": 1,
+      "width": 407,
+      "height": 229
+    }
+  },
+  {
+    "index": 38,
+    "start_frame": 3600,
+    "end_frame": 3696,
+    "start": 150.0,
+    "end": 154.0,
+    "frames": 96,
+    "sheet": 4,
+    "cell": 1,
+    "crop": {
+      "x": 423,
+      "y": 1,
+      "width": 407,
+      "height": 229
+    }
+  },
+  {
+    "index": 39,
+    "start_frame": 3696,
+    "end_frame": 3768,
+    "start": 154.0,
+    "end": 157.0,
+    "frames": 72,
+    "sheet": 4,
+    "cell": 3,
+    "crop": {
+      "x": 1263,
+      "y": 1,
+      "width": 407,
+      "height": 228
+    }
+  },
+  {
+    "index": 40,
+    "start_frame": 3768,
+    "end_frame": 3851,
+    "start": 157.0,
+    "end": 160.45833333333334,
+    "frames": 83,
+    "sheet": 4,
+    "cell": 4,
+    "crop": {
+      "x": 4,
+      "y": 239,
+      "width": 403,
+      "height": 227
+    }
+  },
+  {
+    "index": 41,
+    "start_frame": 3851,
+    "end_frame": 3936,
+    "start": 160.45833333333334,
+    "end": 164.0,
+    "frames": 85,
+    "sheet": 4,
+    "cell": 5,
+    "crop": {
+      "x": 425,
+      "y": 239,
+      "width": 403,
+      "height": 227
+    }
+  },
+  {
+    "index": 42,
+    "start_frame": 3936,
+    "end_frame": 4027,
+    "start": 164.0,
+    "end": 167.79166666666666,
+    "frames": 91,
+    "sheet": 4,
+    "cell": 8,
+    "crop": {
+      "x": 17,
+      "y": 474,
+      "width": 376,
+      "height": 212
+    }
+  },
+  {
+    "index": 43,
+    "start_frame": 4027,
+    "end_frame": 4126,
+    "start": 167.79166666666666,
+    "end": 171.91666666666666,
+    "frames": 99,
+    "sheet": 4,
+    "cell": 10,
+    "crop": {
+      "x": 858,
+      "y": 474,
+      "width": 376,
+      "height": 212
+    }
+  },
+  {
+    "index": 44,
+    "start_frame": 4126,
+    "end_frame": 4217,
+    "start": 171.91666666666666,
+    "end": 175.70833333333334,
+    "frames": 91,
+    "sheet": 4,
+    "cell": 11,
+    "crop": {
+      "x": 1278,
+      "y": 474,
+      "width": 376,
+      "height": 212
+    }
+  },
+  {
+    "index": 45,
+    "start_frame": 4217,
+    "end_frame": 4322,
+    "start": 175.70833333333334,
+    "end": 180.08333333333334,
+    "frames": 105,
+    "sheet": 4,
+    "cell": 13,
+    "crop": {
+      "x": 422,
+      "y": 702,
+      "width": 409,
+      "height": 230
+    }
+  },
+  {
+    "index": 46,
+    "start_frame": 4322,
+    "end_frame": 4524,
+    "start": 180.08333333333334,
+    "end": 188.5,
+    "frames": 202,
+    "sheet": 4,
+    "cell": 15,
+    "crop": {
+      "x": 1263,
+      "y": 703,
+      "width": 407,
+      "height": 228
+    }
+  },
+  {
+    "index": 47,
+    "start_frame": 4524,
+    "end_frame": 4687,
+    "start": 188.5,
+    "end": 195.29166666666666,
+    "frames": 163,
+    "sheet": 5,
+    "cell": 2,
+    "crop": {
+      "x": 843,
+      "y": 1,
+      "width": 407,
+      "height": 229
+    }
+  },
+  {
+    "index": 48,
+    "start_frame": 4687,
+    "end_frame": 4776,
+    "start": 195.29166666666666,
+    "end": 199.0,
+    "frames": 89,
+    "sheet": 5,
+    "cell": 4,
+    "crop": {
+      "x": 6,
+      "y": 239,
+      "width": 400,
+      "height": 225
+    }
+  },
+  {
+    "index": 49,
+    "start_frame": 4776,
+    "end_frame": 4877,
+    "start": 199.0,
+    "end": 203.20833333333334,
+    "frames": 101,
+    "sheet": 5,
+    "cell": 5,
+    "crop": {
+      "x": 427,
+      "y": 239,
+      "width": 400,
+      "height": 225
+    }
+  },
+  {
+    "index": 50,
+    "start_frame": 4877,
+    "end_frame": 4968,
+    "start": 203.20833333333334,
+    "end": 207.0,
+    "frames": 91,
+    "sheet": 5,
+    "cell": 10,
+    "crop": {
+      "x": 859,
+      "y": 473,
+      "width": 375,
+      "height": 211
+    }
+  },
+  {
+    "index": 51,
+    "start_frame": 4968,
+    "end_frame": 5064,
+    "start": 207.0,
+    "end": 211.0,
+    "frames": 96,
+    "sheet": 5,
+    "cell": 12,
+    "crop": {
+      "x": 1,
+      "y": 701,
+      "width": 410,
+      "height": 230
+    }
+  },
+  {
+    "index": 52,
+    "start_frame": 5064,
+    "end_frame": 5140,
+    "start": 211.0,
+    "end": 214.16666666666666,
+    "frames": 76,
+    "sheet": 5,
+    "cell": 13,
+    "crop": {
+      "x": 422,
+      "y": 701,
+      "width": 410,
+      "height": 230
+    }
+  },
+  {
+    "index": 53,
+    "start_frame": 5140,
+    "end_frame": 5232,
+    "start": 214.16666666666666,
+    "end": 218.0,
+    "frames": 92,
+    "sheet": 5,
+    "cell": 15,
+    "crop": {
+      "x": 1262,
+      "y": 701,
+      "width": 408,
+      "height": 229
+    }
+  },
+  {
+    "index": 54,
+    "start_frame": 5232,
+    "end_frame": 5328,
+    "start": 218.0,
+    "end": 222.0,
+    "frames": 96,
+    "sheet": 6,
+    "cell": 0,
+    "crop": {
+      "x": 2,
+      "y": 1,
+      "width": 407,
+      "height": 229
+    }
+  },
+  {
+    "index": 55,
+    "start_frame": 5328,
+    "end_frame": 5432,
+    "start": 222.0,
+    "end": 226.33333333333334,
+    "frames": 104,
+    "sheet": 6,
+    "cell": 1,
+    "crop": {
+      "x": 422,
+      "y": 1,
+      "width": 407,
+      "height": 229
+    }
+  },
+  {
+    "index": 56,
+    "start_frame": 5432,
+    "end_frame": 5579,
+    "start": 226.33333333333334,
+    "end": 232.45833333333334,
+    "frames": 147,
+    "sheet": 6,
+    "cell": 3,
+    "crop": {
+      "x": 1262,
+      "y": 1,
+      "width": 407,
+      "height": 229
+    }
+  },
+  {
+    "index": 57,
+    "start_frame": 5579,
+    "end_frame": 5729,
+    "start": 232.45833333333334,
+    "end": 238.70833333333334,
+    "frames": 150,
+    "sheet": 6,
+    "cell": 2,
+    "crop": {
+      "x": 842,
+      "y": 1,
+      "width": 407,
+      "height": 229
+    }
+  },
+  {
+    "index": 58,
+    "start_frame": 5729,
+    "end_frame": 5907,
+    "start": 238.70833333333334,
+    "end": 246.125,
+    "frames": 178,
+    "sheet": 6,
+    "cell": 4,
+    "crop": {
+      "x": 7,
+      "y": 239,
+      "width": 398,
+      "height": 224
+    }
+  },
+  {
+    "index": 59,
+    "start_frame": 5907,
+    "end_frame": 6038,
+    "start": 246.125,
+    "end": 251.58333333333334,
+    "frames": 131,
+    "sheet": 6,
+    "cell": 5,
+    "crop": {
+      "x": 426,
+      "y": 239,
+      "width": 398,
+      "height": 224
+    }
+  },
+  {
+    "index": 60,
+    "start_frame": 6038,
+    "end_frame": 6237,
+    "start": 251.58333333333334,
+    "end": 259.875,
+    "frames": 199,
+    "sheet": 6,
+    "cell": 6,
+    "crop": {
+      "x": 846,
+      "y": 239,
+      "width": 398,
+      "height": 224
+    }
+  },
+  {
+    "index": 61,
+    "start_frame": 6237,
+    "end_frame": 6312,
+    "start": 259.875,
+    "end": 263.0,
+    "frames": 75,
+    "sheet": 6,
+    "cell": 7,
+    "crop": {
+      "x": 1267,
+      "y": 239,
+      "width": 398,
+      "height": 224
+    }
+  },
+  {
+    "index": 62,
+    "start_frame": 6312,
+    "end_frame": 6415,
+    "start": 263.0,
+    "end": 267.2916666666667,
+    "frames": 103,
+    "sheet": 6,
+    "cell": 8,
+    "crop": {
+      "x": 18,
+      "y": 471,
+      "width": 376,
+      "height": 212
+    }
+  },
+  {
+    "index": 63,
+    "start_frame": 6415,
+    "end_frame": 6570,
+    "start": 267.2916666666667,
+    "end": 273.75,
+    "frames": 155,
+    "sheet": 6,
+    "cell": 10,
+    "crop": {
+      "x": 857,
+      "y": 471,
+      "width": 376,
+      "height": 212
+    }
+  },
+  {
+    "index": 64,
+    "start_frame": 6570,
+    "end_frame": 6695,
+    "start": 273.75,
+    "end": 278.9583333333333,
+    "frames": 125,
+    "sheet": 6,
+    "cell": 12,
+    "crop": {
+      "x": 1,
+      "y": 700,
+      "width": 410,
+      "height": 230
+    }
+  },
+  {
+    "index": 65,
+    "start_frame": 6695,
+    "end_frame": 6905,
+    "start": 278.9583333333333,
+    "end": 287.7083333333333,
+    "frames": 210,
+    "sheet": 6,
+    "cell": 13,
+    "crop": {
+      "x": 420,
+      "y": 700,
+      "width": 411,
+      "height": 231
+    }
+  },
+  {
+    "index": 66,
+    "start_frame": 6905,
+    "end_frame": 6996,
+    "start": 287.7083333333333,
+    "end": 291.5,
+    "frames": 91,
+    "sheet": 7,
+    "cell": 1,
+    "crop": {
+      "x": 422,
+      "y": 1,
+      "width": 408,
+      "height": 230
+    }
+  },
+  {
+    "index": 67,
+    "start_frame": 6996,
+    "end_frame": 7061,
+    "start": 291.5,
+    "end": 294.2083333333333,
+    "frames": 65,
+    "sheet": 7,
+    "cell": 2,
+    "crop": {
+      "x": 842,
+      "y": 1,
+      "width": 408,
+      "height": 230
+    }
+  },
+  {
+    "index": 68,
+    "start_frame": 7061,
+    "end_frame": 7132,
+    "start": 294.2083333333333,
+    "end": 297.1666666666667,
+    "frames": 71,
+    "sheet": 7,
+    "cell": 3,
+    "crop": {
+      "x": 1262,
+      "y": 1,
+      "width": 408,
+      "height": 229
+    }
+  },
+  {
+    "index": 69,
+    "start_frame": 7132,
+    "end_frame": 7216,
+    "start": 297.1666666666667,
+    "end": 300.6666666666667,
+    "frames": 84,
+    "sheet": 7,
+    "cell": 4,
+    "crop": {
+      "x": 6,
+      "y": 239,
+      "width": 401,
+      "height": 226
+    }
+  },
+  {
+    "index": 70,
+    "start_frame": 7216,
+    "end_frame": 7344,
+    "start": 300.6666666666667,
+    "end": 306.0,
+    "frames": 128,
+    "sheet": 7,
+    "cell": 5,
+    "crop": {
+      "x": 426,
+      "y": 239,
+      "width": 401,
+      "height": 226
+    }
+  },
+  {
+    "index": 71,
+    "start_frame": 7344,
+    "end_frame": 7433,
+    "start": 306.0,
+    "end": 309.7083333333333,
+    "frames": 89,
+    "sheet": 7,
+    "cell": 6,
+    "crop": {
+      "x": 845,
+      "y": 239,
+      "width": 401,
+      "height": 226
+    }
+  },
+  {
+    "index": 72,
+    "start_frame": 7433,
+    "end_frame": 7508,
+    "start": 309.7083333333333,
+    "end": 312.8333333333333,
+    "frames": 75,
+    "sheet": 7,
+    "cell": 7,
+    "crop": {
+      "x": 1265,
+      "y": 239,
+      "width": 401,
+      "height": 226
+    }
+  },
+  {
+    "index": 73,
+    "start_frame": 7508,
+    "end_frame": 7587,
+    "start": 312.8333333333333,
+    "end": 316.125,
+    "frames": 79,
+    "sheet": 7,
+    "cell": 9,
+    "crop": {
+      "x": 435,
+      "y": 472,
+      "width": 382,
+      "height": 215
+    }
+  },
+  {
+    "index": 74,
+    "start_frame": 7587,
+    "end_frame": 7668,
+    "start": 316.125,
+    "end": 319.5,
+    "frames": 81,
+    "sheet": 7,
+    "cell": 10,
+    "crop": {
+      "x": 855,
+      "y": 472,
+      "width": 382,
+      "height": 215
+    }
+  },
+  {
+    "index": 75,
+    "start_frame": 7668,
+    "end_frame": 7765,
+    "start": 319.5,
+    "end": 323.5416666666667,
+    "frames": 97,
+    "sheet": 7,
+    "cell": 11,
+    "crop": {
+      "x": 1275,
+      "y": 472,
+      "width": 382,
+      "height": 215
+    }
+  },
+  {
+    "index": 76,
+    "start_frame": 7765,
+    "end_frame": 7848,
+    "start": 323.5416666666667,
+    "end": 327.0,
+    "frames": 83,
+    "sheet": 7,
+    "cell": 13,
+    "crop": {
+      "x": 422,
+      "y": 702,
+      "width": 409,
+      "height": 230
+    }
+  },
+  {
+    "index": 77,
+    "start_frame": 7848,
+    "end_frame": 7944,
+    "start": 327.0,
+    "end": 331.0,
+    "frames": 96,
+    "sheet": 7,
+    "cell": 14,
+    "crop": {
+      "x": 841,
+      "y": 702,
+      "width": 410,
+      "height": 230
+    }
+  },
+  {
+    "index": 78,
+    "start_frame": 7944,
+    "end_frame": 8066,
+    "start": 331.0,
+    "end": 336.0833333333333,
+    "frames": 122,
+    "sheet": 7,
+    "cell": 15,
+    "crop": {
+      "x": 1262,
+      "y": 702,
+      "width": 408,
+      "height": 229
+    }
+  },
+  {
+    "index": 79,
+    "start_frame": 8066,
+    "end_frame": 8141,
+    "start": 336.0833333333333,
+    "end": 339.2083333333333,
+    "frames": 75,
+    "sheet": 8,
+    "cell": 0,
+    "crop": {
+      "x": 2,
+      "y": 1,
+      "width": 408,
+      "height": 230
+    }
+  },
+  {
+    "index": 80,
+    "start_frame": 8141,
+    "end_frame": 8219,
+    "start": 339.2083333333333,
+    "end": 342.4583333333333,
+    "frames": 78,
+    "sheet": 8,
+    "cell": 1,
+    "crop": {
+      "x": 422,
+      "y": 1,
+      "width": 408,
+      "height": 230
+    }
+  },
+  {
+    "index": 81,
+    "start_frame": 8219,
+    "end_frame": 8306,
+    "start": 342.4583333333333,
+    "end": 346.0833333333333,
+    "frames": 87,
+    "sheet": 8,
+    "cell": 2,
+    "crop": {
+      "x": 842,
+      "y": 1,
+      "width": 408,
+      "height": 230
+    }
+  },
+  {
+    "index": 82,
+    "start_frame": 8306,
+    "end_frame": 8409,
+    "start": 346.0833333333333,
+    "end": 350.375,
+    "frames": 103,
+    "sheet": 8,
+    "cell": 3,
+    "crop": {
+      "x": 1262,
+      "y": 1,
+      "width": 408,
+      "height": 229
+    }
+  },
+  {
+    "index": 83,
+    "start_frame": 8409,
+    "end_frame": 8520,
+    "start": 350.375,
+    "end": 355.0,
+    "frames": 111,
+    "sheet": 8,
+    "cell": 5,
+    "crop": {
+      "x": 426,
+      "y": 239,
+      "width": 400,
+      "height": 225
+    }
+  },
+  {
+    "index": 84,
+    "start_frame": 8520,
+    "end_frame": 8616,
+    "start": 355.0,
+    "end": 359.0,
+    "frames": 96,
+    "sheet": 8,
+    "cell": 7,
+    "crop": {
+      "x": 1266,
+      "y": 239,
+      "width": 400,
+      "height": 225
+    }
+  },
+  {
+    "index": 85,
+    "start_frame": 8616,
+    "end_frame": 8696,
+    "start": 359.0,
+    "end": 362.3333333333333,
+    "frames": 80,
+    "sheet": 8,
+    "cell": 9,
+    "crop": {
+      "x": 437,
+      "y": 473,
+      "width": 378,
+      "height": 213
+    }
+  },
+  {
+    "index": 86,
+    "start_frame": 8696,
+    "end_frame": 8849,
+    "start": 362.3333333333333,
+    "end": 368.7083333333333,
+    "frames": 153,
+    "sheet": 8,
+    "cell": 10,
+    "crop": {
+      "x": 857,
+      "y": 473,
+      "width": 378,
+      "height": 213
+    }
+  },
+  {
+    "index": 87,
+    "start_frame": 8849,
+    "end_frame": 9000,
+    "start": 368.7083333333333,
+    "end": 375.0,
+    "frames": 151,
+    "sheet": 8,
+    "cell": 12,
+    "crop": {
+      "x": 1,
+      "y": 702,
+      "width": 410,
+      "height": 230
+    }
+  },
+  {
+    "index": 88,
+    "start_frame": 9000,
+    "end_frame": 9084,
+    "start": 375.0,
+    "end": 378.5,
+    "frames": 84,
+    "sheet": 8,
+    "cell": 13,
+    "crop": {
+      "x": 422,
+      "y": 702,
+      "width": 409,
+      "height": 230
+    }
+  },
+  {
+    "index": 89,
+    "start_frame": 9084,
+    "end_frame": 9162,
+    "start": 378.5,
+    "end": 381.75,
+    "frames": 78,
+    "sheet": 8,
+    "cell": 15,
+    "crop": {
+      "x": 1262,
+      "y": 702,
+      "width": 408,
+      "height": 229
+    }
+  },
+  {
+    "index": 90,
+    "start_frame": 9162,
+    "end_frame": 9292,
+    "start": 381.75,
+    "end": 387.1666666666667,
+    "frames": 130,
+    "sheet": 9,
+    "cell": 0,
+    "crop": {
+      "x": 3,
+      "y": 1,
+      "width": 408,
+      "height": 230
+    }
+  },
+  {
+    "index": 91,
+    "start_frame": 9292,
+    "end_frame": 9363,
+    "start": 387.1666666666667,
+    "end": 390.125,
+    "frames": 71,
+    "sheet": 9,
+    "cell": 1,
+    "crop": {
+      "x": 424,
+      "y": 1,
+      "width": 408,
+      "height": 229
+    }
+  },
+  {
+    "index": 92,
+    "start_frame": 9363,
+    "end_frame": 9433,
+    "start": 390.125,
+    "end": 393.0416666666667,
+    "frames": 70,
+    "sheet": 9,
+    "cell": 2,
+    "crop": {
+      "x": 841,
+      "y": 1,
+      "width": 408,
+      "height": 229
+    }
+  },
+  {
+    "index": 93,
+    "start_frame": 9433,
+    "end_frame": 9536,
+    "start": 393.0416666666667,
+    "end": 397.3333333333333,
+    "frames": 103,
+    "sheet": 9,
+    "cell": 3,
+    "crop": {
+      "x": 1260,
+      "y": 1,
+      "width": 408,
+      "height": 230
+    }
+  },
+  {
+    "index": 94,
+    "start_frame": 9536,
+    "end_frame": 9635,
+    "start": 397.3333333333333,
+    "end": 401.4583333333333,
+    "frames": 99,
+    "sheet": 9,
+    "cell": 4,
+    "crop": {
+      "x": 11,
+      "y": 241,
+      "width": 392,
+      "height": 221
+    }
+  },
+  {
+    "index": 95,
+    "start_frame": 9635,
+    "end_frame": 9701,
+    "start": 401.4583333333333,
+    "end": 404.2083333333333,
+    "frames": 66,
+    "sheet": 9,
+    "cell": 6,
+    "crop": {
+      "x": 849,
+      "y": 241,
+      "width": 392,
+      "height": 221
+    }
+  },
+  {
+    "index": 96,
+    "start_frame": 9701,
+    "end_frame": 9773,
+    "start": 404.2083333333333,
+    "end": 407.2083333333333,
+    "frames": 72,
+    "sheet": 9,
+    "cell": 7,
+    "crop": {
+      "x": 1268,
+      "y": 241,
+      "width": 392,
+      "height": 221
+    }
+  },
+  {
+    "index": 97,
+    "start_frame": 9773,
+    "end_frame": 9840,
+    "start": 407.2083333333333,
+    "end": 410.0,
+    "frames": 67,
+    "sheet": 9,
+    "cell": 8,
+    "crop": {
+      "x": 28,
+      "y": 471,
+      "width": 359,
+      "height": 202
+    }
+  },
+  {
+    "index": 98,
+    "start_frame": 9840,
+    "end_frame": 9912,
+    "start": 410.0,
+    "end": 413.0,
+    "frames": 72,
+    "sheet": 9,
+    "cell": 9,
+    "crop": {
+      "x": 448,
+      "y": 471,
+      "width": 359,
+      "height": 202
+    }
+  },
+  {
+    "index": 99,
+    "start_frame": 9912,
+    "end_frame": 9988,
+    "start": 413.0,
+    "end": 416.1666666666667,
+    "frames": 76,
+    "sheet": 9,
+    "cell": 10,
+    "crop": {
+      "x": 865,
+      "y": 471,
+      "width": 359,
+      "height": 202
+    }
+  },
+  {
+    "index": 100,
+    "start_frame": 9988,
+    "end_frame": 10147,
+    "start": 416.1666666666667,
+    "end": 422.7916666666667,
+    "frames": 159,
+    "sheet": 9,
+    "cell": 11,
+    "crop": {
+      "x": 1285,
+      "y": 471,
+      "width": 359,
+      "height": 202
+    }
+  },
+  {
+    "index": 101,
+    "start_frame": 10147,
+    "end_frame": 10246,
+    "start": 422.7916666666667,
+    "end": 426.9166666666667,
+    "frames": 99,
+    "sheet": 9,
+    "cell": 12,
+    "crop": {
+      "x": 1,
+      "y": 694,
+      "width": 413,
+      "height": 232
+    }
+  },
+  {
+    "index": 102,
+    "start_frame": 10246,
+    "end_frame": 10308,
+    "start": 426.9166666666667,
+    "end": 429.5,
+    "frames": 62,
+    "sheet": 9,
+    "cell": 13,
+    "crop": {
+      "x": 424,
+      "y": 696,
+      "width": 408,
+      "height": 229
+    }
+  },
+  {
+    "index": 103,
+    "start_frame": 10308,
+    "end_frame": 10415,
+    "start": 429.5,
+    "end": 433.9583333333333,
+    "frames": 107,
+    "sheet": 9,
+    "cell": 14,
+    "crop": {
+      "x": 841,
+      "y": 696,
+      "width": 408,
+      "height": 229
+    }
+  },
+  {
+    "index": 104,
+    "start_frame": 10415,
+    "end_frame": 10488,
+    "start": 433.9583333333333,
+    "end": 437.0,
+    "frames": 73,
+    "sheet": 10,
+    "cell": 0,
+    "crop": {
+      "x": 3,
+      "y": 1,
+      "width": 408,
+      "height": 230
+    }
+  },
+  {
+    "index": 105,
+    "start_frame": 10488,
+    "end_frame": 10560,
+    "start": 437.0,
+    "end": 440.0,
+    "frames": 72,
+    "sheet": 10,
+    "cell": 2,
+    "crop": {
+      "x": 840,
+      "y": 1,
+      "width": 408,
+      "height": 230
+    }
+  },
+  {
+    "index": 106,
+    "start_frame": 10560,
+    "end_frame": 10632,
+    "start": 440.0,
+    "end": 443.0,
+    "frames": 72,
+    "sheet": 10,
+    "cell": 4,
+    "crop": {
+      "x": 8,
+      "y": 240,
+      "width": 398,
+      "height": 224
+    }
+  },
+  {
+    "index": 107,
+    "start_frame": 10632,
+    "end_frame": 10744,
+    "start": 443.0,
+    "end": 447.6666666666667,
+    "frames": 112,
+    "sheet": 10,
+    "cell": 5,
+    "crop": {
+      "x": 428,
+      "y": 240,
+      "width": 398,
+      "height": 224
+    }
+  },
+  {
+    "index": 108,
+    "start_frame": 10744,
+    "end_frame": 10843,
+    "start": 447.6666666666667,
+    "end": 451.7916666666667,
+    "frames": 99,
+    "sheet": 10,
+    "cell": 6,
+    "crop": {
+      "x": 845,
+      "y": 240,
+      "width": 398,
+      "height": 224
+    }
+  },
+  {
+    "index": 109,
+    "start_frame": 10843,
+    "end_frame": 10968,
+    "start": 451.7916666666667,
+    "end": 457.0,
+    "frames": 125,
+    "sheet": 10,
+    "cell": 7,
+    "crop": {
+      "x": 1265,
+      "y": 240,
+      "width": 398,
+      "height": 224
+    }
+  },
+  {
+    "index": 110,
+    "start_frame": 10968,
+    "end_frame": 11040,
+    "start": 457.0,
+    "end": 460.0,
+    "frames": 72,
+    "sheet": 10,
+    "cell": 9,
+    "crop": {
+      "x": 445,
+      "y": 472,
+      "width": 364,
+      "height": 205
+    }
+  },
+  {
+    "index": 111,
+    "start_frame": 11040,
+    "end_frame": 11119,
+    "start": 460.0,
+    "end": 463.2916666666667,
+    "frames": 79,
+    "sheet": 10,
+    "cell": 10,
+    "crop": {
+      "x": 862,
+      "y": 472,
+      "width": 364,
+      "height": 205
+    }
+  },
+  {
+    "index": 112,
+    "start_frame": 11119,
+    "end_frame": 11179,
+    "start": 463.2916666666667,
+    "end": 465.7916666666667,
+    "frames": 60,
+    "sheet": 10,
+    "cell": 11,
+    "crop": {
+      "x": 1282,
+      "y": 472,
+      "width": 364,
+      "height": 205
+    }
+  },
+  {
+    "index": 113,
+    "start_frame": 11179,
+    "end_frame": 11340,
+    "start": 465.7916666666667,
+    "end": 472.5,
+    "frames": 161,
+    "sheet": 10,
+    "cell": 12,
+    "crop": {
+      "x": 1,
+      "y": 696,
+      "width": 412,
+      "height": 231
+    }
+  },
+  {
+    "index": 114,
+    "start_frame": 11340,
+    "end_frame": 11421,
+    "start": 472.5,
+    "end": 475.875,
+    "frames": 81,
+    "sheet": 10,
+    "cell": 13,
+    "crop": {
+      "x": 423,
+      "y": 697,
+      "width": 408,
+      "height": 229
+    }
+  },
+  {
+    "index": 115,
+    "start_frame": 11421,
+    "end_frame": 11511,
+    "start": 475.875,
+    "end": 479.625,
+    "frames": 90,
+    "sheet": 10,
+    "cell": 14,
+    "crop": {
+      "x": 839,
+      "y": 697,
+      "width": 410,
+      "height": 230
+    }
+  },
+  {
+    "index": 116,
+    "start_frame": 11511,
+    "end_frame": 11685,
+    "start": 479.625,
+    "end": 486.875,
+    "frames": 174,
+    "sheet": 10,
+    "cell": 15,
+    "crop": {
+      "x": 1258,
+      "y": 696,
+      "width": 412,
+      "height": 231
+    }
+  },
+  {
+    "index": 117,
+    "start_frame": 11685,
+    "end_frame": 11784,
+    "start": 486.875,
+    "end": 491.0,
+    "frames": 99,
+    "sheet": 11,
+    "cell": 2,
+    "crop": {
+      "x": 843,
+      "y": 1,
+      "width": 407,
+      "height": 228
+    }
+  },
+  {
+    "index": 118,
+    "start_frame": 11784,
+    "end_frame": 11863,
+    "start": 491.0,
+    "end": 494.2916666666667,
+    "frames": 79,
+    "sheet": 11,
+    "cell": 3,
+    "crop": {
+      "x": 1262,
+      "y": 1,
+      "width": 407,
+      "height": 229
+    }
+  },
+  {
+    "index": 119,
+    "start_frame": 11863,
+    "end_frame": 11956,
+    "start": 494.2916666666667,
+    "end": 498.1666666666667,
+    "frames": 93,
+    "sheet": 11,
+    "cell": 4,
+    "crop": {
+      "x": 8,
+      "y": 240,
+      "width": 396,
+      "height": 223
+    }
+  },
+  {
+    "index": 120,
+    "start_frame": 11956,
+    "end_frame": 12017,
+    "start": 498.1666666666667,
+    "end": 500.7083333333333,
+    "frames": 61,
+    "sheet": 11,
+    "cell": 6,
+    "crop": {
+      "x": 848,
+      "y": 240,
+      "width": 396,
+      "height": 223
+    }
+  },
+  {
+    "index": 121,
+    "start_frame": 12017,
+    "end_frame": 12132,
+    "start": 500.7083333333333,
+    "end": 505.5,
+    "frames": 115,
+    "sheet": 11,
+    "cell": 8,
+    "crop": {
+      "x": 15,
+      "y": 472,
+      "width": 382,
+      "height": 215
+    }
+  },
+  {
+    "index": 122,
+    "start_frame": 12132,
+    "end_frame": 12192,
+    "start": 505.5,
+    "end": 508.0,
+    "frames": 60,
+    "sheet": 11,
+    "cell": 10,
+    "crop": {
+      "x": 855,
+      "y": 472,
+      "width": 382,
+      "height": 215
+    }
+  },
+  {
+    "index": 123,
+    "start_frame": 12192,
+    "end_frame": 12307,
+    "start": 508.0,
+    "end": 512.7916666666666,
+    "frames": 115,
+    "sheet": 11,
+    "cell": 11,
+    "crop": {
+      "x": 1274,
+      "y": 472,
+      "width": 382,
+      "height": 215
+    }
+  },
+  {
+    "index": 124,
+    "start_frame": 12307,
+    "end_frame": 12460,
+    "start": 512.7916666666666,
+    "end": 519.1666666666666,
+    "frames": 153,
+    "sheet": 11,
+    "cell": 13,
+    "crop": {
+      "x": 423,
+      "y": 702,
+      "width": 409,
+      "height": 230
+    }
+  },
+  {
+    "index": 125,
+    "start_frame": 12460,
+    "end_frame": 12585,
+    "start": 519.1666666666666,
+    "end": 524.375,
+    "frames": 125,
+    "sheet": 11,
+    "cell": 15,
+    "crop": {
+      "x": 1261,
+      "y": 702,
+      "width": 409,
+      "height": 230
+    }
+  }
+]

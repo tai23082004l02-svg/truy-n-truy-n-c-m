@@ -1,22 +1,35 @@
 # Bố không biết nói thương con
 
-Trạng thái: đã chuẩn bị lời thoại; chờ người dùng thu âm. Chưa tạo audio, ảnh hay video.
+Câu chuyện hư cấu bằng tiếng Việt về tình thương ít lời của bố, qua lời kể của người con đi làm xa. Bố còn sống ở đoạn kết.
 
-## Lời thoại để thu âm
+## Xem hoặc tải
 
-[Đọc và tải lời thoại tiếng Việt](loi-thoai.txt).
+- **[Tải video MP4](Bo-khong-biet-noi-thuong-con.mp4)** — H.264/AAC, 1280 × 720, 24 fps, khoảng 8 phút 44 giây.
+- [Phụ đề tiếng Việt SRT](subtitles.srt), đồng thời được gắn vào hình trong MP4.
+- [Lời thoại](loi-thoai.txt).
+- [Audio gốc giọng Aria do người dùng cung cấp](audio-goc.mp3).
+- [Tiêu đề và mô tả gợi ý](youtube-description.txt).
+- [Ghi chú sản xuất](production-notes.md) và [kết quả kiểm tra](validation-summary.json).
 
-- Chuyện kể hư cấu ở ngôi thứ nhất; dành cho khán giả Việt Nam. Người kể là người con đã trưởng thành, không chốt giới tính.
-- Giọng kể gần gũi, ấm, tiết chế; như kể lại chuyện gia đình. Không cần cố khóc hoặc nhấn mọi câu thành cao trào.
-- Tiêu đề đầu tệp dùng để nhận diện, không bắt buộc đọc. Các đoạn còn lại là toàn bộ lời đọc, không có chỉ dẫn sân khấu cần bỏ qua.
-- Ngắt nhẹ giữa đoạn; để khoảng lặng tự nhiên sau lời bố hỏi về tiền phòng và câu kết. Lời đối thoại vẫn có thể do cùng một người đọc, chỉ đổi sắc thái nhẹ.
-- Thời lượng chính xác sẽ đo từ audio người dùng gửi lại; không kéo giọng hoặc thêm khoảng trống để ép đủ số phút.
+![Hình đại diện](thumbnail.jpg)
 
-## Hướng hình và dựng sau khi nhận audio
+## Hình ảnh và dựng
 
-- Minh họa 2D vẽ tay, viền đen, màu phẳng dịu theo tài liệu tham khảo tại `tai23082004l02-svg/YTB-ng-i-que/VIDEO_GUIDELINES.md`.
-- Chốt tạo hình bố, mẹ và người con trước khi tạo hàng loạt ảnh; phân biệt độ tuổi ở hồi nhỏ và khi trưởng thành.
-- Giữ bối cảnh gia đình Việt Nam nhất quán. Bố còn sống ở cuối câu chuyện; không thêm tai nạn, tang lễ hoặc cảnh chết để đẩy cảm xúc.
-- Dùng audio thật làm mốc chia cảnh và đồng bộ phụ đề tiếng Việt. Mặc định video ngang 16:9, 1280 × 720; ảnh nhiều ô theo cách tham khảo đã chốt.
-- Cảnh tĩnh, cắt thẳng; không zoom, pan, rung, thanh tiêu đề hay bộ đếm. Ước lượng khoảng 4 giây/cảnh rồi điều chỉnh theo lời kể.
-- Chưa chọn nhạc, chưa tạo ảnh và chưa dựng video ở giai đoạn chuẩn bị lời thoại.
+126 hình được tuyển từ 11 tấm 4 × 4, trung bình khoảng 4,2 giây/cảnh. Cảnh toàn, cảnh gia đình và cận đồ vật được phối hợp theo lời kể. Phong cách minh họa 2D, màu dịu, nhân vật và bối cảnh gia đình Việt Nam nhất quán theo hướng dẫn tham khảo ở kho `tai23082004l02-svg/YTB-ng-i-que`.
+
+Hình đứng yên, chuyển thẳng; không zoom, pan, rung, header hoặc bộ đếm. Đây là video minh họa tĩnh có đổi cảnh, không có chuyển động tay chân riêng. Phụ đề chữ sáng viền tối ở dưới, không dải nền đen cố định.
+
+Giữ giọng Aria và tốc độ audio đã gửi; chỉ cân âm lượng cho bản xuất. Không dùng nhạc của bên thứ ba. Ảnh nguồn nhiều ô được phóng lên 720p sau khi cắt; không phải từng ảnh nguồn được tạo độc lập ở 720p.
+
+## Dữ liệu để sửa về sau
+
+- `project/assets/`: toàn bộ 11 tấm ảnh nguồn AI.
+- `project/story-bible.json`: tạo hình nhân vật và bối cảnh.
+- `project/grid-crops.json`: ranh giới lưới thực tế và vùng cắt giữ tỷ lệ.
+- `project/shots.json`: nguồn ô ảnh và mốc frame từng cảnh.
+- `project/captions.json`, `aligned-words.json`, `transcript-asr.json`, `alignment-review.json`: phụ đề, mốc từ và dữ liệu đối chiếu.
+- `project/render.py`: script dựng, cần Python 3.12, FFmpeg có libx264/libass, font Noto Sans và các thư viện trong `project/requirements-render.txt`.
+
+Để dựng lại: cài thư viện vào môi trường Python riêng, chạy `python project/render.py` từ thư mục này. Thư mục tạm mặc định ở `/tmp/bo-khong-biet-noi-thuong-con-build`, có thể đổi bằng biến `VIDEO_BUILD_DIR`. Dùng checkout đang có; không cần tạo Git worktree.
+
+Video và tài liệu được bàn giao qua GitHub. Chưa đăng hoặc lên lịch trên YouTube.
